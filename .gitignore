@@ -1,0 +1,7 @@
+vendor
+selenium.sublime-workspace
+selenium.sublime-project
+composer.lock
+createFakeOrder.php
+screenshots
+debug.log
